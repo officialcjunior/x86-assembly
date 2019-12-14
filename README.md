@@ -4,6 +4,8 @@ These are some programs I wrote in Intel x86 assembly language.
 
 ## Setup
 To run it, make sure that gcc and nasm are installed. 
+
+
 `sudo apt install build-essential`
 
 
